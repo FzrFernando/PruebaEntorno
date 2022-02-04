@@ -20,7 +20,7 @@ public class Ejercicio1 {
 			System.out.println("Los numeros no son multiplos");
 		}
 	}
-	
+	/*hola*/
 
 	public static boolean multiplo(int num1, int num2) {
 		boolean multiplo = false;
